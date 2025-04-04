@@ -1,5 +1,6 @@
 # Recettes
 Compilation de recettes de cuisine
+Tartes aux pommes
 
 ## Introduction
 Le but de cet exercice est de créer un répertoire de recettes de cuisine.
